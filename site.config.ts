@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Nano Banana prompt',
-  domain: 'mygallery.vercel.app',
+  domain: 'my-prompts-904.pages.dev',
   author: 'zhuquan',
 
   // open graph metadata (optional)
