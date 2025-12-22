@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'Jameszh76003787',
-  github: 'mygallery.vercel.app',
+  github: 'zhuqquan',
   linkedin: 'Jameszh76003787',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
